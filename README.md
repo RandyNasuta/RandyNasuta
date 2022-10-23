@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter framework
 - 📫 How to reach me:
 - Email: randynasuta123@gmail.com
+- LinkedIn: https://www.linkedin.com/in/randy-nasuta/
 - Instagram: @rnasuta
 
 <!---
