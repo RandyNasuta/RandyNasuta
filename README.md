@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RandyNasuta
 - 👀 I’m interested in android application development
-- 🌱 I’m currently learning Flutter framework
+- 🌱 I’m currently learning Flutter framework and Java for Mobile App Development
 - 📫 How to reach me:
 - Email: randynasuta123@gmail.com
 - LinkedIn: https://www.linkedin.com/in/randy-nasuta/
