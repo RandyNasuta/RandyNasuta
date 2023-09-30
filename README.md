@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 - Email: randynasuta123@gmail.com
 - LinkedIn: https://www.linkedin.com/in/randy-nasuta/
-- Instagram: @rnasuta
+- Instagram: [@rnasuta](https://www.instagram.com/rnasuta/)
 
 <!---
 RandyNasuta/RandyNasuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
